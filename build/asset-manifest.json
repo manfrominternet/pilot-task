@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pilot-task/static/css/main.e6b37178.chunk.css",
+    "main.js": "/pilot-task/static/js/main.f23c8479.chunk.js",
+    "main.js.map": "/pilot-task/static/js/main.f23c8479.chunk.js.map",
+    "runtime-main.js": "/pilot-task/static/js/runtime-main.955803e9.js",
+    "runtime-main.js.map": "/pilot-task/static/js/runtime-main.955803e9.js.map",
+    "static/js/2.db594819.chunk.js": "/pilot-task/static/js/2.db594819.chunk.js",
+    "static/js/2.db594819.chunk.js.map": "/pilot-task/static/js/2.db594819.chunk.js.map",
+    "static/js/3.a66a247d.chunk.js": "/pilot-task/static/js/3.a66a247d.chunk.js",
+    "static/js/3.a66a247d.chunk.js.map": "/pilot-task/static/js/3.a66a247d.chunk.js.map",
+    "index.html": "/pilot-task/index.html",
+    "static/css/main.e6b37178.chunk.css.map": "/pilot-task/static/css/main.e6b37178.chunk.css.map",
+    "static/js/2.db594819.chunk.js.LICENSE.txt": "/pilot-task/static/js/2.db594819.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.955803e9.js",
+    "static/js/2.db594819.chunk.js",
+    "static/css/main.e6b37178.chunk.css",
+    "static/js/main.f23c8479.chunk.js"
+  ]
+}
